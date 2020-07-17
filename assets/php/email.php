@@ -1,8 +1,8 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'hithemestarz@gmail.com';
-$subject = 'Message from Inovo';
+$to = 'jordan@reverbdesigns.com';
+$subject = 'Message from Rererb Teep Landing';
 
 $name = "";
 $email = "";

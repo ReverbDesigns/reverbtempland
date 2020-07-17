@@ -293,18 +293,14 @@ body.show-panel #page #content * {
 /********
 --- M ---
 ********/
-.map {
+#map {
     height: 300px;
-    width: 100%
 }
-.map a[href^="http://maps.google.com/maps"] {
-    display: none !important
+#map-contact {
+    height: 100%;
 }
 .map a[href^="https://maps.google.com/maps"] {
     display: none !important
-}
-.map .gmnoprint a, .map .gmnoprint span, .map .gm-style-cc {
-    display: none
 }
 /* overlay at start */
 .mfp-fade.mfp-bg {
